@@ -1,4 +1,4 @@
-# WSINDy4Atmos
+# WSINDy4Atmos <br> (Under construction!)
 Weak SINDy model discovery for atmospheric data.
 
 ![changing_scales_fine](https://github.com/user-attachments/assets/ae67286a-1e1b-443a-b71c-bfdc63f2483c)
