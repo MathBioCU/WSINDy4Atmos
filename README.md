@@ -1,4 +1,4 @@
-# WSINDy4Atmos <br> (Under construction!)
+# WSINDy4Atmos
 Weak SINDy model discovery for atmospheric data.
 
 ![changing_scales_fine](https://github.com/user-attachments/assets/ae67286a-1e1b-443a-b71c-bfdc63f2483c)
@@ -16,7 +16,7 @@ Code accompanying the pre-print paper ["Learning Weather Models from Data with W
 ```
 
 - See [the tutorials and examples located here](https://github.com/SethMinor/PyWSINDy-for-PDEs) for instructions on how to use the codebase.
-- To recreate results in the paper, see the `wsindy_for_weather_examples.ipynb` and `full_globe_wsindy.ipynb` notebooks.
+- To recreate results in the paper, see `wsindy_for_weather_examples.ipynb` and `full_globe_wsindy.py` (uses older code).
 
 **Note:** unfortunately, our examples data files are too large host on GitHub.
 Luckily, they are all publicly-available! Interested readers are directed towards the following locations:
@@ -38,4 +38,13 @@ from scipy.signal import convolve
 from scipy.special import factorial
 import matplotlib.pyplot as plt
 from tqdm import tqdm
+
+from wsindy import *
+from helper_fcns import *
+```
+
+###### Install PyWSINDy for PDEs a Bash environment:
+```python3
+wget -q https://raw.githubusercontent.com/SethMinor/PyWSINDy-for-PDEs/main/wsindy.py
+wget -q https://raw.githubusercontent.com/SethMinor/PyWSINDy-for-PDEs/main/helper_fcns.py
 ```
