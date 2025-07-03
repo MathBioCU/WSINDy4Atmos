@@ -3,7 +3,9 @@ Weak SINDy model discovery for atmospheric data.
 
 ![changing_scales_fine](https://github.com/user-attachments/assets/ae67286a-1e1b-443a-b71c-bfdc63f2483c)
 
-Code accompanying the pre-print paper ["Learning Weather Models from Data with Weak SINDy"](https://arxiv.org/abs/2501.00738), currently available on the ArXiV:
+Python code accompanying the manuscript **"Learning Physically Interpretable Atmospheric Models from Data with WSINDy"** submitted to the *Journal of Geophysical Research: Machine Learning and Computation.*
+- See our Zenodo entry: [Code for "Learning Physically Interpretable Atmospheric Models from Data with WSINDy"](https://zenodo.org/records/15802566)
+- Also see our ArXiV pre-print: ["Learning Weather Models from Data with Weak SINDy"](https://arxiv.org/abs/2501.00738)
 ```
 @misc{minor2025learningweathermodelsdata,
       title={Learning Weather Models from Data with WSINDy}, 
