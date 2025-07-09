@@ -5,10 +5,10 @@ Weak SINDy model discovery for atmospheric data.
 
 Python code accompanying the manuscript **"Learning Physically Interpretable Atmospheric Models from Data with WSINDy"** submitted to the *Journal of Geophysical Research: Machine Learning and Computation.*
 - Zenodo: [Code for "Learning Physically Interpretable Atmospheric Models from Data with WSINDy"](https://zenodo.org/records/15802566)
-- ArXiV pre-print: ["Learning Weather Models from Data with Weak SINDy"](https://arxiv.org/abs/2501.00738)
+- ArXiV pre-print: ["Learning Physically Interpretable Atmospheric Models from Data with WSINDy"](https://arxiv.org/abs/2501.00738)
 ```
-@misc{minor2025learningweathermodelsdata,
-      title={Learning Weather Models from Data with WSINDy}, 
+@misc{minor2025learningphysicallyinterpretableatmospheric,
+      title={Learning Physically Interpretable Atmospheric Models from Data with WSINDy}, 
       author={Seth Minor and Daniel A. Messenger and Vanja Dukic and David M. Bortz},
       year={2025},
       eprint={2501.00738},
